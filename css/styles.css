@@ -98,11 +98,10 @@ em {
   background-color: var(--color-background-light);
 }
 
-/* Front page hero header - full viewport height */
+/* Front page hero header */
 .front-page .custom-header {
   display: table;
-  height: 300px;
-  height: 75vh;
+  height: 400px;
   width: 100%;
 }
 
