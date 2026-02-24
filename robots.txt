@@ -1,0 +1,6 @@
+# robots.txt for raspyramid.com
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://raspyramid.com/sitemap.xml
