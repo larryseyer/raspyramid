@@ -101,7 +101,7 @@ em {
 /* Front page hero header */
 .front-page .custom-header {
   display: table;
-  height: 400px;
+  height: 75vh;
   width: 100%;
 }
 
